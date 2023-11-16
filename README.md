@@ -1,21 +1,22 @@
 # 1.For Linux (Debian/Ubuntu):
     • Use the package manager to install the AWS CLI. Open Terminal and run:
     
-Command:
-sudo apt-get update
+Command:\
+sudo apt-get update\
 sudo apt-get install awscli
 
 # Step 2: Configure AWS CLI
-    1. Open a terminal or command prompt.
-    2. Run the following command to configure the AWS CLI:
-       Command: 
-       aws configure
+
+1. Open a terminal or command prompt.
+3. Run the following command to configure the AWS CLI:   
+   Command: \
+   aws configure
 
   3.Enter your AWS Access Key ID, Secret Access Key, default region, and 	output format when prompted. You can find your Access Key ID and \	Secret Access Key in the AWS Management Console under "Security 	Credentials" in the "IAM" service.
 	
 Example:\
 AWS Access Key ID [None]: YOUR_ACCESS_KEY \
-AWS Secret Access 	Key [None]: YOUR_SECRET_KEY \
+AWS Secret Access Key [None]: YOUR_SECRET_KEY \
 Default region name [None]: your-	preferred-region \
 Default 	output format [None]: json 
 
