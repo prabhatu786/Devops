@@ -50,4 +50,4 @@ _______________________________________________________________________________
 
 
 Make sure to replace "your-s3-bucket-name", "path/in/s3/bucket", and "/path/to/local/directory" with your actual S3 bucket name, desired path in the S3 bucket, and your local directory path, respectively.\
-Save this script as, for example, upload_to_s3.sh. Make it executable using chmod +x upload_to_s3.sh. Then, you can run it using ./upload_to_s3.sh in your terminal.
+Save this script as, for example, Push_S3bucket.sh. Make it executable using chmod +x Push_S3bucket.sh. Then, you can run it using ./Push_S3bucket.sh in your terminal.
